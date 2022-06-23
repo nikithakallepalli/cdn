@@ -1,4 +1,4 @@
-{
+[
     data: {
       subscription: ["s", "c"],
       storageAccountName: "",
@@ -7,4 +7,4 @@
     },
     storageAccountname: [],
     errors: {},
- }
+]
