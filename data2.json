@@ -1,0 +1,10 @@
+{
+    data: {
+      subscription: ["s", "c"],
+      storageAccountName: "",
+      resourceGroup: ["d","v"],
+      location: ""
+    },
+    storageAccountname: [],
+    errors: {},
+ }
